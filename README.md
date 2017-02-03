@@ -13,3 +13,21 @@
 
 ### React native
 * [React native physics library](https://github.com/MiLeung/react-native-physics) - Kudos to Michael Leung for this fantastic library that create a physics engine you can use in your react native apps
+
+## API Development
+
+### Web Api 2
+
+* [Testing security in Web Api 2](https://github.com/hbiarge/Acheve.Owin.Testing.Security) - Testing security in Web Api 2 by Hugo Biarge
+
+## Data Layer
+
+### Entity Framework
+
+* [Entity Framework and repository pattern](http://rob.conery.io/2014/03/04/repositories-and-unitofwork-are-not-a-good-idea/) - Why Repositories and unit of work are not a good idea.
+
+## Comunication
+
+### Non-Violent Comunication 
+
+* [Retrospective with non violent communication](https://www.linkedin.com/pulse/non-violent-communication-agile-retrospective-rod-sherwin) - by Rod Shervin.
