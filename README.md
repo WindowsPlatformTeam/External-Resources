@@ -31,3 +31,7 @@
 ### Non-Violent Comunication 
 
 * [Retrospective with non violent communication](https://www.linkedin.com/pulse/non-violent-communication-agile-retrospective-rod-sherwin) - by Rod Shervin.
+
+## Others
+
+* [Crear nuestro propio Nuget](http://fernandoescolar.github.io/2016/09/08/quiero-mi-propio-nuget/) - by Fernando Escolar.
