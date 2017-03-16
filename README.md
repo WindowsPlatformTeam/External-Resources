@@ -6,6 +6,7 @@
 
 ### Javascript
 * [Optimize ES6 Code For Output Minification (Ninja Tricks Included)](https://medium.com/modus-create-front-end-development/optimize-es6-output-size-performance-ninja-tricks-included-d4fc2d313f66#.9lvga4qpi) - Tips and tricks to get in consideration when writting code using ES2015 or newer.
+* [50+ Free books about Javascript, related frameworks and libraries](http://freefrontend.com/javascript-books/)
 
 ## CROSS-PLATFORM Apps
 ### Xamarin forms
