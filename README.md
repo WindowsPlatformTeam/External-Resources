@@ -3,6 +3,7 @@
 * ### [Web Development](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/WebDevelopment.md)
 * ### [Cross Platform](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/CrossPlatform.md)
 * ### [API Development](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/ApiDevelopment.md)
+* ### [Bot Framework](BotFramework.md)
 * ### [Data Layers](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/DataLayer.md)
 * ### [Communication](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/Communication.md)
 * ### [Others](https://github.com/WindowsPlatformTeam/External-Resources/blob/master/Others.md)
