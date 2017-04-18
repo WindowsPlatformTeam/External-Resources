@@ -1,3 +1,3 @@
-JavaScript Style guide
+XAML Style guide
 ====================================
 
