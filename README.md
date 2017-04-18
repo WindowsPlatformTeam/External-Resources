@@ -1,12 +1,12 @@
 # Index
-* ### [Style Guides](StyleGuide.md)
-* ### [Web Development](WebDevelopment.md)
-* ### [Cross Platform](CrossPlatform.md)
-* ### [API Development](ApiDevelopment.md)
-* ### [Bot Framework](BotFramework.md)
-* ### [Data Layers](DataLayer.md)
-* ### [Communication](Communication.md)
-* ### [Others](Others.md)
+* ### [Style Guides](Documents/StyleGuidelines.md)
+* ### [Web Development](Documents/WebDevelopment.md)
+* ### [Cross Platform](Documents/CrossPlatform.md)
+* ### [API Development](Documents/ApiDevelopment.md)
+* ### [Bot Framework](Documents/BotFramework.md)
+* ### [Data Layers](Documents/DataLayer.md)
+* ### [Communication](Documents/Communication.md)
+* ### [Others](Documents/Others.md)
 
 
 ## We are...
