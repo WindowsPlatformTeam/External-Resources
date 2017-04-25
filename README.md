@@ -2,6 +2,7 @@
 * ### [Style Guides](Documents/StyleGuideLines.md)
 * ### [Web Development](Documents/WebDevelopment.md)
 * ### [Cross Platform](Documents/CrossPlatform.md)
+* ### [.Net](Documents/DotNet.md)
 * ### [API Development](Documents/ApiDevelopment.md)
 * ### [Bot Framework](Documents/BotFramework.md)
 * ### [Data Layers](Documents/DataLayer.md)
