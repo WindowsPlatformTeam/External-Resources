@@ -4,3 +4,4 @@ We use [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshe
 
 ## Readme Files
 
+[Visual studio -Create a README for your repo](https://www.visualstudio.com/en-us/docs/git/create-a-readme)
